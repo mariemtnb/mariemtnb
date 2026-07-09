@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322.79999999999995 38" width="322.79999999999995" height="38" font-family="Verdana, Arial, sans-serif">
-<g><rect x="0.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#EE4C2C" stroke-width="1.6"/><circle cx="23.0" cy="19.0" r="5" fill="#EE4C2C"/><text x="36.0" y="23.9" font-size="14" font-weight="600" fill="#EE4C2C">PyTorch</text></g>
-<g><rect x="119.2" y="0.0" width="99.6" height="38" rx="19.0" fill="#ffffff" stroke="#150458" stroke-width="1.6"/><circle cx="142.2" cy="19.0" r="5" fill="#150458"/><text x="155.2" y="23.9" font-size="14" font-weight="600" fill="#150458">pandas</text></g>
-<g><rect x="230.8" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#4D77CF" stroke-width="1.6"/><circle cx="253.8" cy="19.0" r="5" fill="#4D77CF"/><text x="266.8" y="23.9" font-size="14" font-weight="600" fill="#4D77CF">NumPy</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 368.20000000000005 48" width="368.20000000000005" height="48" font-family="Verdana, Arial, sans-serif">
+<defs><filter id="soft" x="-20%" y="-40%" width="140%" height="200%">
+<feDropShadow dx="0" dy="1.5" stdDeviation="2.2" flood-color="#000000" flood-opacity="0.35"/>
+</filter></defs>
+<g filter="url(#soft)">
+<rect x="0.0" y="4.0" width="121.3" height="40" rx="20.0" fill="#1e1e2e" fill-opacity="0.55" stroke="#94E2D5" stroke-width="1.5"/>
+<g transform="translate(20.0,15.5) scale(0.7083)" fill="#94E2D5"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></g>
+<text x="46.0" y="29.1" font-size="14.5" font-weight="600" fill="#94E2D5">PyTorch</text>
+</g>
+<g filter="url(#soft)">
+<rect x="135.3" y="4.0" width="113.4" height="40" rx="20.0" fill="#1e1e2e" fill-opacity="0.55" stroke="#89DCEB" stroke-width="1.5"/>
+<g transform="translate(155.3,15.5) scale(0.7083)" fill="#89DCEB"><path d="M16.922 0h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 2.559h2.623v2.57H8.67zm0 4.151h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z"/></g>
+<text x="181.3" y="29.1" font-size="14.5" font-weight="600" fill="#89DCEB">pandas</text>
+</g>
+<g filter="url(#soft)">
+<rect x="262.7" y="4.0" width="105.5" height="40" rx="20.0" fill="#1e1e2e" fill-opacity="0.55" stroke="#89B4FA" stroke-width="1.5"/>
+<g transform="translate(282.7,15.5) scale(0.7083)" fill="#89B4FA"><path d="M10.315 4.876L6.3048 2.8517l-4.401 2.1965 4.1186 2.0683zm1.8381.9277l4.2045 2.1223-4.3622 2.1906-4.125-2.0718zm5.6153-2.9213l4.3193 2.1658-3.863 1.9402-4.2131-2.1252zm-1.859-.9329L12.021 0 8.1742 1.9193l4.0068 2.0208zm-3.0401 16.7443V24l4.7107-2.3507-.0053-5.3085zm4.7037-4.2057l-.0052-5.2528-4.6985 2.3356v5.2546zm5.6553-.9845v5.327l-4.0178 2.0052-.0029-5.3028zm0-1.8626V6.4214l-4.0253 2.001.0034 5.2633zM11.2062 11.571L8.0333 9.9756v6.895s-3.8804-8.2564-4.2399-8.998c-.0463-.0957-.2371-.2007-.2858-.2262C2.8118 7.2812.773 6.2485.773 6.2485V18.43l2.8204 1.5076v-6.3674s3.8392 7.3775 3.878 7.458c.0389.0807.4245.8582.8362 1.1314.5485.363 2.8992 1.7766 2.8992 1.7766z"/></g>
+<text x="308.7" y="29.1" font-size="14.5" font-weight="600" fill="#89B4FA">NumPy</text>
+</g>
 </svg>
