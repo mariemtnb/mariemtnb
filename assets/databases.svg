@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 695.6 38" width="695.6" height="38" font-family="Verdana, Arial, sans-serif">
+<g><rect x="0.0" y="0.0" width="130.0" height="38" rx="19.0" fill="#ffffff" stroke="#4169E1" stroke-width="1.6"/><circle cx="23.0" cy="19.0" r="5" fill="#4169E1"/><text x="36.0" y="23.9" font-size="14" font-weight="600" fill="#4169E1">PostgreSQL</text></g>
+<g><rect x="142.0" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#4479A1" stroke-width="1.6"/><circle cx="165.0" cy="19.0" r="5" fill="#4479A1"/><text x="178.0" y="23.9" font-size="14" font-weight="600" fill="#4479A1">MySQL</text></g>
+<g><rect x="246.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#47A248" stroke-width="1.6"/><circle cx="269.0" cy="19.0" r="5" fill="#47A248"/><text x="282.0" y="23.9" font-size="14" font-weight="600" fill="#47A248">MongoDB</text></g>
+<g><rect x="365.2" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#DC382D" stroke-width="1.6"/><circle cx="388.2" cy="19.0" r="5" fill="#DC382D"/><text x="401.2" y="23.9" font-size="14" font-weight="600" fill="#DC382D">Redis</text></g>
+<g><rect x="469.2" y="0.0" width="99.6" height="38" rx="19.0" fill="#ffffff" stroke="#003B57" stroke-width="1.6"/><circle cx="492.2" cy="19.0" r="5" fill="#003B57"/><text x="505.2" y="23.9" font-size="14" font-weight="600" fill="#003B57">SQLite</text></g>
+<g><rect x="580.8" y="0.0" width="114.8" height="38" rx="19.0" fill="#ffffff" stroke="#F0A500" stroke-width="1.6"/><circle cx="603.8" cy="19.0" r="5" fill="#F0A500"/><text x="616.8" y="23.9" font-size="14" font-weight="600" fill="#B8860B">Firebase</text></g>
+</svg>

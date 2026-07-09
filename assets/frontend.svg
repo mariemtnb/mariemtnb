@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 665.2 90" width="665.2" height="90" font-family="Verdana, Arial, sans-serif">
+<g><rect x="0.0" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#61DAFB" stroke-width="1.6"/><circle cx="23.0" cy="19.0" r="5" fill="#61DAFB"/><text x="36.0" y="23.9" font-size="14" font-weight="600" fill="#0EA5C4">React</text></g>
+<g><rect x="104.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#DD0031" stroke-width="1.6"/><circle cx="127.0" cy="19.0" r="5" fill="#DD0031"/><text x="140.0" y="23.9" font-size="14" font-weight="600" fill="#DD0031">Angular</text></g>
+<g><rect x="223.2" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#E34F26" stroke-width="1.6"/><circle cx="246.2" cy="19.0" r="5" fill="#E34F26"/><text x="259.2" y="23.9" font-size="14" font-weight="600" fill="#E34F26">HTML5</text></g>
+<g><rect x="327.2" y="0.0" width="84.4" height="38" rx="19.0" fill="#ffffff" stroke="#1572B6" stroke-width="1.6"/><circle cx="350.2" cy="19.0" r="5" fill="#1572B6"/><text x="363.2" y="23.9" font-size="14" font-weight="600" fill="#1572B6">CSS3</text></g>
+<g><rect x="423.6" y="0.0" width="84.4" height="38" rx="19.0" fill="#ffffff" stroke="#CC6699" stroke-width="1.6"/><circle cx="446.6" cy="19.0" r="5" fill="#CC6699"/><text x="459.6" y="23.9" font-size="14" font-weight="600" fill="#CC6699">Sass</text></g>
+<g><rect x="520.0" y="0.0" width="145.2" height="38" rx="19.0" fill="#ffffff" stroke="#06B6D4" stroke-width="1.6"/><circle cx="543.0" cy="19.0" r="5" fill="#06B6D4"/><text x="556.0" y="23.9" font-size="14" font-weight="600" fill="#06B6D4">Tailwind CSS</text></g>
+<g><rect x="271.4" y="52.0" width="122.4" height="38" rx="19.0" fill="#ffffff" stroke="#7952B3" stroke-width="1.6"/><circle cx="294.4" cy="71.0" r="5" fill="#7952B3"/><text x="307.4" y="75.9" font-size="14" font-weight="600" fill="#7952B3">Bootstrap</text></g>
+</svg>

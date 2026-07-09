@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322.79999999999995 38" width="322.79999999999995" height="38" font-family="Verdana, Arial, sans-serif">
+<g><rect x="0.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#EE4C2C" stroke-width="1.6"/><circle cx="23.0" cy="19.0" r="5" fill="#EE4C2C"/><text x="36.0" y="23.9" font-size="14" font-weight="600" fill="#EE4C2C">PyTorch</text></g>
+<g><rect x="119.2" y="0.0" width="99.6" height="38" rx="19.0" fill="#ffffff" stroke="#150458" stroke-width="1.6"/><circle cx="142.2" cy="19.0" r="5" fill="#150458"/><text x="155.2" y="23.9" font-size="14" font-weight="600" fill="#150458">pandas</text></g>
+<g><rect x="230.8" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#4D77CF" stroke-width="1.6"/><circle cx="253.8" cy="19.0" r="5" fill="#4D77CF"/><text x="266.8" y="23.9" font-size="14" font-weight="600" fill="#4D77CF">NumPy</text></g>
+</svg>

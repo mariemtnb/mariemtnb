@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 599.2 38" width="599.2" height="38" font-family="Verdana, Arial, sans-serif">
+<g><rect x="0.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#007ACC" stroke-width="1.6"/><circle cx="23.0" cy="19.0" r="5" fill="#007ACC"/><text x="36.0" y="23.9" font-size="14" font-weight="600" fill="#007ACC">VS Code</text></g>
+<g><rect x="119.2" y="0.0" width="152.8" height="38" rx="19.0" fill="#ffffff" stroke="#FE315D" stroke-width="1.6"/><circle cx="142.2" cy="19.0" r="5" fill="#FE315D"/><text x="155.2" y="23.9" font-size="14" font-weight="600" fill="#FE315D">IntelliJ IDEA</text></g>
+<g><rect x="284.0" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#F24E1E" stroke-width="1.6"/><circle cx="307.0" cy="19.0" r="5" fill="#F24E1E"/><text x="320.0" y="23.9" font-size="14" font-weight="600" fill="#F24E1E">Figma</text></g>
+<g><rect x="388.0" y="0.0" width="107.2" height="38" rx="19.0" fill="#ffffff" stroke="#FF6C37" stroke-width="1.6"/><circle cx="411.0" cy="19.0" r="5" fill="#FF6C37"/><text x="424.0" y="23.9" font-size="14" font-weight="600" fill="#FF6C37">Postman</text></g>
+<g><rect x="507.2" y="0.0" width="92.0" height="38" rx="19.0" fill="#ffffff" stroke="#E5A50A" stroke-width="1.6"/><circle cx="530.2" cy="19.0" r="5" fill="#E5A50A"/><text x="543.2" y="23.9" font-size="14" font-weight="600" fill="#9C7A00">Linux</text></g>
+</svg>
