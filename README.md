@@ -10,7 +10,7 @@ I'm a software engineering student specializing in **AI & Data Science**, and I 
 
 Right now I'm building an **AI-powered ERP with a conversational assistant** that can carry out real business operations , think less chatbot, more digital coworker. Outside of that, I'm deep in **LLMs, deep learning, MLOps**, and the overlap between AI and good UI/UX (I mess around in **Blender** too, mostly for fun).
 
-Outside of code, I'm usually **gaming** or messing around with **digital art** — both feed into how I think about design and user experience more than people expect.
+Outside of code, I'm usually **gaming** or messing around with **digital art** , both feed into how I think about design and user experience more than people expect.
 
 I'm interested in **AI engineering, agentic systems, full-stack development, SaaS, and cloud technologies**, and I'm currently open to **freelance work** and **junior software engineering roles**.
 
