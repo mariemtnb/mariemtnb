@@ -76,7 +76,7 @@ Right now I'm building an **AI-powered ERP with a conversational assistant** tha
 <img src="https://img.shields.io/github/followers/mariemtnb?style=flat&color=CBA6F7&label=followers&logo=github&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mariemtnb&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariemtnb&layout=compact&theme=tokyonight&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
