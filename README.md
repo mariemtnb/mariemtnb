@@ -82,12 +82,12 @@ Right now I'm building an **AI-powered ERP with a conversational assistant** tha
 
 </div>
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariemtnb&show_icons=true&theme=catppuccin_mocha&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&count_private=true&cache_seconds=1800" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemtnb&layout=compact&theme=catppuccin_mocha&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&langs_count=8&cache_seconds=1800" alt="top languages" />
-</div>
+### 📊 GitHub Stats
 
-<p align="center"><sub>the two cards above pull live data from a free shared service (github-readme-stats) that frequently rate-limits and shows broken images — this is happening on the service's end, not in this file. See the note at the very bottom for how to fix this permanently by deploying your own copy.</sub></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mariemtnb&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariemtnb&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mariemtnb&bg_color=00000000&color=F5C2E7&line=CBA6F7&point=cdd6f4&area=true&hide_border=true" alt="activity graph" />
