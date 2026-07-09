@@ -8,13 +8,13 @@
 
 I'm a software engineering student specializing in **AI & Data Science**, and I like the process of turning a messy real-world problem into software that actually works.
 
-Right now I'm building an **AI-powered ERP with a conversational assistant** that can carry out real business operations — think less chatbot, more digital coworker. Outside of that, I'm deep in **LLMs, deep learning, MLOps**, and the overlap between AI and good UI/UX (I mess around in **Blender** too, mostly for fun).
+Right now I'm building an **AI-powered ERP with a conversational assistant** that can carry out real business operations , think less chatbot, more digital coworker. Outside of that, I'm deep in **LLMs, deep learning, MLOps**, and the overlap between AI and good UI/UX (I mess around in **Blender** too, mostly for fun).
 
 Outside of code, I'm usually **gaming** or messing around with **digital art** — both feed into how I think about design and user experience more than people expect.
 
 I'm interested in **AI engineering, agentic systems, full-stack development, SaaS, and cloud technologies**, and I'm currently open to **freelance work** and **junior software engineering roles**.
 
-Feel free to reach out — **mariem02tanabene@gmail.com** — or just ask if you want to know more about me.
+Feel free to reach out : **mariem02tanabene@gmail.com** , or just ask if you want to know more about me.
 
 <br/>
 
@@ -108,16 +108,3 @@ Feel free to reach out — **mariem02tanabene@gmail.com** — or just ask if you
 
 <img src="./assets/header.svg" width="100%"/>
 
-<!--
-PERMANENT FIX FOR THE STATS CARDS ABOVE:
-The "GitHub stats" and "top languages" cards use a free service shared by
-thousands of GitHub profiles, so it frequently rate-limits and shows broken
-images. To fix this for good (takes ~2 minutes, free):
-  1. Go to https://github.com/anuraghazra/github-readme-stats
-  2. Click "Deploy on Vercel" and log in with your GitHub account
-  3. Once deployed, you'll get your own URL like
-     https://github-readme-stats-yourname.vercel.app
-  4. Replace "github-readme-stats.vercel.app" in the two <img> URLs above
-     with your own deployed URL
-Now only you are using that server, so it will never rate-limit again.
--->
