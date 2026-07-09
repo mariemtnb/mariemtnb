@@ -6,12 +6,15 @@
 
 ## about me
 
-I'm a software engineering student focused on **AI & Data Science** — I like taking messy, real problems and turning them into software that actually works.
+I'm a software engineering student specializing in **AI & Data Science**, and I like the process of turning a messy real-world problem into software that actually works.
 
-Right now I'm building an **AI-powered ERP with a conversational assistant** that can carry out real business operations on request — think less chatbot, more digital coworker.
+Right now I'm building an **AI-powered ERP with a conversational assistant** that can carry out real business operations — think less chatbot, more digital coworker. Outside of that, I'm deep in **LLMs, deep learning, MLOps**, and the overlap between AI and good UI/UX (I mess around in **Blender** too, mostly for fun).
 
-**Currently exploring:** LLMs, MLOps, and the space between AI and good UI/UX design.
-**Open to:** freelance work and junior software engineering roles.
+Outside of code, I'm usually **gaming** or messing around with **digital art** — both feed into how I think about design and user experience more than people expect.
+
+I'm interested in **AI engineering, agentic systems, full-stack development, SaaS, and cloud technologies**, and I'm currently open to **freelance work** and **junior software engineering roles**.
+
+Feel free to reach out — **mariem02tanabene@gmail.com** — or just ask if you want to know more about me.
 
 <br/>
 
