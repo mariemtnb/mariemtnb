@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="./assets/header.svg" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Caveat&weight=600&size=24&pause=1200&color=F5C2E7&center=true&vCenter=true&width=650&height=40&lines=welcome+to+my+little+corner+of+GitHub+%E2%9C%A8" alt="typing intro" />
-
 </div>
-
 <br/>
 
 ## about me
@@ -76,17 +72,14 @@ Right now I'm building an **AI-powered ERP with a conversational assistant** tha
 ## stats
 
 <div align="center">
-
 <img src="https://img.shields.io/github/stars/mariemtnb?style=flat&color=F5C2E7&label=stars&logo=github&logoColor=white" />
 <img src="https://img.shields.io/github/followers/mariemtnb?style=flat&color=CBA6F7&label=followers&logo=github&logoColor=white" />
-
 </div>
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mariemtnb&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariemtnb&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mariemtnb&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariemtnb&layout=compact&theme=tokyonight&title_color=CBA6F7&icon_color=F5C2E7&text_color=cdd6f4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <div align="center">
